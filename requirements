@@ -1,6 +1,33 @@
-streamlit
-pandas
+Streamlit, version 1.42.0
+Python 3.13.1
+Version: 2.2.3
+Summary: Powerful data structures for data analysis, time series, and statistics
+Home-page: https://pandas.pydata.org
+Author:
+Author-email: The Pandas Development Team <pandas-dev@python.org>
+License: BSD 3-Clause License
 numpy
-matplotlib
-seaborn
-plotly
+Name: matplotlib
+Version: 3.10.0
+Summary: Python plotting package
+Home-page: https://matplotlib.org
+Author: John D. Hunter, Michael Droettboom
+Author-email: Unknown <matplotlib-users@python.org>
+Name: seaborn
+Version: 0.13.2
+Summary: Statistical data visualization
+Home-page:
+Author:
+Author-email: Michael Waskom <mwaskom@gmail.com>
+License:
+Location: C:\Users\Zohair Askari\AppData\Local\Programs\Python\Python313\Lib\site-packages
+Requires: matplotlib, numpy, pandas
+Name: plotly
+Version: 6.0.0
+Summary: An open-source, interactive data visualization library for Python
+Home-page: https://plotly.com/python/
+Author: Chris P
+Author-email: chris@plot.ly
+License: MIT
+Location: C:\Users\Zohair Askari\AppData\Local\Programs\Python\Python313\Lib\site-packages
+Requires: narwhals, packaging
