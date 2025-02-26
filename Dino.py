@@ -275,7 +275,7 @@ So if you’re here looking for dragons… sorry, we only deal in hardcore, scie
 
 Welcome to DinoPedia—where every fossil tells a story! 🦴📖""")
         st.image(
-    r"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fhumor-dinosaur-wallpaper-congj&psig=AOvVaw0cxUyJLKmK7FF15_FOwAKp&ust=1740663658280000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNC539K74YsDFQAAAAAdAAAAABAE",
+    r"https://c4.wallpaperflare.com/wallpaper/365/413/124/humor-dinosaur-wallpaper-preview.jpg",
     caption="🎧 Dino Vibes Only",
     use_container_width=True 
 )
