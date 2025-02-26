@@ -198,7 +198,7 @@ def search_and_highlight_map(df):
 
 🎬 *Lahore Jurassic Park* production stuck — rumor has it, the squad’s just one Pakistani fossil short from a Netflix deal! 💀✨ 
 
-🦴 **Sir Abbass Abbassi**: The “KFC bone specialist” — claims it’s “finger-lickin’ research.” 🍗💀 “Bro out here confusing zinger bones for dino fossils. Jurassic Park delayed ‘cause sir’s chasing extra crispy ‘evidence.’ Someone get him a paleontology degree with a side of fries. 🤡🍟”
+🦴 **Sir Abbass Abbassi**: The “KFC bone specialist” — claims it’s “finger-lickin’ research.” 🍗💀 “Sir out here confusing zinger bones for dino fossils. Jurassic Park delayed ‘cause sir’s chasing extra crispy ‘evidence.’ Someone get him a paleontology degree with a side of fries. 🤡🍟”
 
 💅 **Miss Mustabshira**: Mehndi fossil influencer — leaves dino-sized handprints at shaadis. 🎨💃 “Serving fossil-core realness — mehndi so ancient, even velociraptors RSVP’d. Wedding or prehistoric exhibit? Spielberg can’t tell. 💀✨”
 
